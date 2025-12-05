@@ -1,0 +1,16 @@
+
+> mobile@1.0.0 prebuild /Users/aviadchmelnik/Code/puzzle-battle/apps/mobile
+> expo prebuild
+
+- Creating native directories (./ios and ./android)
+✔ Created native directories | reusing /android, /ios
+- Updating package.json
+› Using react-native@0.81.4 instead of recommended react-native@0.81.5.
+- Updating package.json
+✔ Updated package.json | no changes
+- Running prebuild
+✔ Finished prebuild
+
+> mobile@1.0.0 build /Users/aviadchmelnik/Code/puzzle-battle/apps/mobile
+> tsc
+
